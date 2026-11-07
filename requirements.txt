@@ -1,0 +1,6 @@
+streamlit>=1.57,<2
+pandas>=2.2,<3
+pypdf>=5,<7
+pypdfium2>=4.30,<6
+Pillow>=10,<12
+openai>=1,<3
